@@ -1,4 +1,4 @@
-# Sankey_Plot-
+# Sankey_Plot
 visualization in R
 
 
