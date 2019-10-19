@@ -7,7 +7,6 @@ library(networkD3)
 
 
 
-setwd("~/Desktop/GitTest")
 
 sankey <- read_excel('Common & Special.xlsx')
 str(sankey)
