@@ -8,5 +8,8 @@ and their adapted models.
 
 Besides, width of the connection is shown proportionally to the sale quantities.
 
+![Image of Sankey Plot](https://github.com/shenzijian/Sankey_Plot-/blob/master/sankey%20plot.png)  
+
+
 
 Please look at the R code for demonstration.
